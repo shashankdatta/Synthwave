@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1077159297841-vjhbv7uajbj60b9uebvgmpvmcp1cq6pq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1077159297841-vjhbv7uajbj60b9uebvgmpvmcp1cq6pq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBp23O6X6YDdBhjBAqgTZXptw4kbayGhkw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1077159297841</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shashankdev.Synthwave</string>
+	<key>PROJECT_ID</key>
+	<string>sythwave-sd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sythwave-sd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1077159297841:ios:59f1038f76ecf30b282610</string>
+</dict>
+</plist>
